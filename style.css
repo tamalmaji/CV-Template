@@ -1,0 +1,27 @@
+@media screen and (min-width: 767px) {
+    .flex{
+        display: flex;
+    }
+    .left-side{
+        float: left;
+        width: 40%;
+    }
+    .right-side{
+        float: right;
+        width: 60%;
+    }
+}
+.padding-margin{
+    padding: 0;
+    margin: 0;
+}
+.text-color{
+    color: #009688!important;
+}
+.bg-info{
+    background-color: #009688!important;
+}
+.footer-color{
+    background-color: #009688!important;
+    color: white;
+}
